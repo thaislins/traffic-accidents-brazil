@@ -1,8 +1,4 @@
-# Traffic Accidents Analysis Brazil
-
-<center>
-<img width="500" src="https://conteudo.imguol.com.br/c/noticias/2015/03/24/24mar2015---um-carro-capotou-apos-ser-atingido-por-outro-veiculo-na-avenida-calim-eid-no-bairro-da-penha-zona-leste-de-sao-paulo-nesta-terca--feira-24-uma-crianca-ficou-ferida-e-foi-encaminhada-1427222496958_956x500.jpg"> 
-</center>
+# Traffic Accidents Analysis in Brazil
 
 > Traffic accidents are a leading cause of death, injury and hospitalization, resulting in high economic and social costs. According to the [World Health Organization’s Global Report Status Report on Road Safety 2015](https://www.who.int/violence_injury_prevention/road_safety_status/2015/en/), more than 1.2 million people die every year on the roads around the world, most of them living in poor countries. And most of these traffic deaths are predictable and could be prevented with relative ease. Traffic infractions, which result in tickets/fines, are indications of bad roadside practices that could be avoided to prevent accidents, and it can be inferred that locations where the most traffic fines are issued are usually places where the most accidents happen.
 
